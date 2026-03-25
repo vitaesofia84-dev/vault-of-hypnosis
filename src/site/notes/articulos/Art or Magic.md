@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articulos/art-or-magic/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/articulos/art-or-magic/","tags":["gardenEntry"],"dg-note-properties":{"permalink:":null}}
 ---
 
 At first, I thought hypnosis wasn't scientific, but rather a kind of magic.  
